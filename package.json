@@ -1,0 +1,23 @@
+{
+  "name": "calc_backend",
+  "version": "0.0.1",
+  "description": "Backend para el proyecto de calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calculadora",
+    "api",
+    "backend",
+    "intermedio"
+  ],
+  "author": "Paulo César Coronado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
